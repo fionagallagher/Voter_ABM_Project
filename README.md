@@ -14,4 +14,6 @@ This repository contains all the scripts required to run our model and generate 
 * Experiments_with_interaction.ipynb contains a notebook outlining our code for running experiments without voter interaction.
 * Experiments-without_interaction.ipynb contains a notebook outlining our code for running experiments including opinion dynamics through voter interaction.
 
-Contributors: Fiona Gallagher, Parva Alavian, Cillian Hourican, Salome Kakhaia, Namitha Tresa Joppan
+## Contributors: 
+Fiona Gallagher, Parva Alavian, Cillian Hourican, Salome Kakhaia, Namitha Tresa Joppan
+MSc Computational Science, University of Amsterdam
