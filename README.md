@@ -21,4 +21,4 @@ This repository contains all the scripts required to run our model and generate 
 * Salome Kakhaia
 * Namitha Tresa Joppan
 
-This work was done as part of an agent-based modelling course in the University of Amsterdam MSc Computational Science.
+This work was done as part of an agent-based modelling course in the University of Amsterdam (MSc Computational Science).
